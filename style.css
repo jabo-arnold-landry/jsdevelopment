@@ -371,7 +371,7 @@ section{
         display: flex;
     }
 
-    @media (min-width:200px) and (max-width:414px){
+    @media (min-width:200px) and (max-width:420px){
         .side-bar{
             z-index: 1;
             color: whitesmoke;
