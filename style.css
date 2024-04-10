@@ -368,7 +368,7 @@ section{
     }
 
     .part-1 .fa-bars{
-        display: flex;
+        display: none;
     }
 
     @media (min-width:300px) and (max-width:420px){
